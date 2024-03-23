@@ -1,2 +1,7 @@
 # charlie-test
-This is a report for testing GitHub activities for a GW Coding Bootcamp course I am taking.
+This is a **repo** for testing GitHub activities for GW Coding Bootcamp Summer/Fall 24'.
+
+1. This is a numbered list.
+2. Second numbered list.
+
+Adding something to my readme to test for a pull request!
